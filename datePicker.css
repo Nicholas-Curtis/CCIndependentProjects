@@ -1,0 +1,16 @@
+#header {
+    position:relative;
+    height:40px;
+    background-color:#FFC107;
+    border-top-left-radius:100px;
+    border-top-right-radius:100px;
+}
+h3 {
+    text-align:center;
+    margin-top:10px;
+    color:black;
+}
+#outline {
+    border:2px solid #FF5722;
+    background-color:#FFECB3;
+}
