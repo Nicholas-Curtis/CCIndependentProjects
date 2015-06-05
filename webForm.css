@@ -1,0 +1,8 @@
+#header {
+    position: relative;
+    top: -10px;
+    background-color: #00A0B0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+	height: 40px;
+}
